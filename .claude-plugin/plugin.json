@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "roteiro-mestre",
+  "description": "Roteiros de Shorts, Reels e TikTok prontos para animar e narrar: 5 ganchos com 3 camadas, estrutura de retenção com rehooks, [SHOT]/[ON SCREEN] por frase, checagem de fatos com fonte, revisão para voz de IA e pacote de publicação.",
+  "version": "1.0.0",
+  "author": { "name": "diasmatias2026-cmyk", "url": "https://github.com/diasmatias2026-cmyk" },
+  "homepage": "https://github.com/diasmatias2026-cmyk/roteiromestrebrasil",
+  "repository": "https://github.com/diasmatias2026-cmyk/roteiromestrebrasil",
+  "license": "MIT",
+  "keywords": ["roteiro", "script", "shorts", "reels", "tiktok", "gancho", "hook", "retencao", "portugues"]
+}

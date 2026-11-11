@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "roteiromestrebrasil",
+  "owner": { "name": "diasmatias2026-cmyk", "url": "https://github.com/diasmatias2026-cmyk" },
+  "description": "Instale o Roteiro Mestre como plugin do Claude Code.",
+  "plugins": [
+    {
+      "name": "roteiro-mestre",
+      "source": "./",
+      "description": "Roteiros de Shorts, Reels e TikTok prontos para animar e narrar, com ganchos, retenção, checagem de fatos e revisão.",
+      "keywords": ["roteiro", "shorts", "reels", "tiktok", "gancho"]
+    }
+  ]
+}
